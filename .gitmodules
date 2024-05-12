@@ -1,4 +1,4 @@
 [submodule "calcom"]
 	path = calcom
-	url = https://github.com/muhllys/cal.com/tree/main.git
+	url = https://github.com/muhllys/cal.com/tree/main
 	branch = main
